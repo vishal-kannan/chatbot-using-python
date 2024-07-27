@@ -1,0 +1,176 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": ["learn", "code"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["i", "love", "you"],
+    "bot_response": "what are you saying? i think that you are gay.",
+    "required_words": ["i", "love", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["When", "does", "the", "library", "open"],
+    "bot_response": "It generally open in morning 8 am.",
+    "required_words": ["When", "does", "the", "library", "open"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "courses", "does", "the", "college", "offer"],
+    "bot_response": "college offers B.E/M.E and B-Tech in engineering",
+    "required_words": ["what", "programs", "does", "the", "college", "offer"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "name", "of", "your", "college"],
+    "bot_response": "Jeppiaar engineering college.",
+    "required_words": ["what", "is", "the", "name", "of", "your", "college"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "extracurricular", "activities", "available", "for", "students"],
+    "bot_response": "sports and cultural events are available.",
+    "required_words": ["what", "extracurricular", "activities", "available", "for", "students"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can", "you", "provide", "information", "about", "the", "faculty", "and", "their", "qualification"],
+    "bot_response": "these details are available in our college website please check it.",
+    "required_words": ["can", "you", "provide", "information", "about", "the", "faculty", "and", "their", "qualification"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["are", "you", "a", "robot"],
+    "bot_response": "No i am not a robot, i am just a chat assistant.",
+    "required_words": ["are", "you", "a", "robot"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "your", "name"],
+    "bot_response": "my name is elsa.",
+    "required_words": ["what", "is", "your", "name"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "does", "the", "college", "support", "career", "development"],
+    "bot_response": "The best way to achieve growth in your career is to understand the best path toward your professional goals.",
+    "required_words": ["how", "does", "the", "college", "support", "career", "development"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "does", "the", "college", "support", "job", "placement"],
+    "bot_response": "The college typically provides career counseling and job placement services to help students find employment after graduation. ",
+    "required_words": ["how", "does", "the", "college", "support", "job", "placement"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["How", "much", "time", "do", "students", "spend", "studying", "per", "day"],
+    "bot_response": "7 hours a day including 1 hour lunch break",
+    "required_words": ["How", "much", "time", "do", "students", "spend", "studying", "per", "day"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["How", "is", "the", "food"],
+    "bot_response": "it seems to be good",
+    "required_words": ["How", "is", "the", "food"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "average", "class", "size"],
+    "bot_response": "class size is about 60 person per class",
+    "required_words": ["what", "is", "the", "average", "class", "size"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what's", "unique", "about", "your", "university"],
+    "bot_response": "Jeppiaar Engineering College is a private engineering college located in Chennai, India. It is one of the few engineering colleges in India to be accredited by the National Board of Accreditation (NBA). The college is affiliated to Anna University and is approved by the All India Council for Technical Education (AICTE). It is also the first engineering college in India to be accredited by the National Assessment and Accreditation Council (NAAC). The college offers undergraduate and postgraduate courses in engineering and technology. ",
+    "required_words": ["what's", "unique", "about", "your", "university"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "can", "i", "improve", "my", "personality"],
+    "bot_response": "Your personality is probably the first impression you give others. A pleasing personality is always welcome whether it’s to make an impression at your admission interview or a good impression with your peers",
+    "required_words": ["what", "can", "i", "improve", "my", "personality"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["are", "Professors", "approachable"],
+    "bot_response": "our college professors are very easy and comfortable for approachable",
+    "required_words": ["are", "Professors", "approachable"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "does", "the", "college", "ensure", "student", "safety", "on", "the", "campus"],
+    "bot_response": "Your safety on campus is a priority. Therefore one of the foremost questions to ask college admission representatives is what measures does the college take to ensure student safety on campus.",
+    "required_words": ["how", "does", "the", "college", "ensure", "student", "safety", "on", "the", "campus"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["do", "you", "help", "graduates", "with", "placements"],
+    "bot_response": "In the final year of graduation, colleges often train students for campus placements. Many colleges organise workshops and seminars for interested students.",
+    "required_words": ["do", "you", "help", "graduates", "with", "placements"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["What", "Companies", "Are", "Invited", "for", "Campus", "Recruitments"],
+    "bot_response": "Campus placements or campus recruitments are important when it comes to building a career. A job through campus placements usually holds a better weightage than otherwise.",
+    "required_words": ["What", "Companies", "Are", "Invited", "for", "Campus", "Recruitments"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["Why", "Should", "I", "join", "This", "College?", "What", "Makes", "It", "Different", "from", "The", "Rest"],
+    "bot_response": "With so many good colleges springing up in every corner, you need to find a college that stands out from the rest.",
+    "required_words": ["Why", "Should", "I", "join", "This", "College?", "What", "Makes", "It", "Different", "from", "The", "Rest"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["What", "are", "the", "transport", "facilities", "the", "college", "provides"],
+    "bot_response": "our college provide transport facility as we provide college buses",
+    "required_words": ["What", "are", "the", "transport", "facilities", "the", "college", "provides"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["Does", "the", "college", "have", "wifi", "and", "high-speed", "internet", "facilities"],
+    "bot_response": "yes our college provide high speed internet facilities",
+    "required_words": ["Does", "the", "college", "have", "wifi", "and", "high-speed", "internet", "facilities"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["What", "are", "the", "facility", "available", "on", "campus"],
+    "bot_response": "like laboratories, gymnasium and library",
+    "required_words": ["What", "are", "the", "facility", "available", "on", "campus"]
+  }
+]
